@@ -1,0 +1,16 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "b0f774b9-e8aa-441c-b1e7-9ce172dd9893",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true",
+    "resourceVars": {
+      "bucketName": "terraform-state",
+      "region": "us-east-1"
+    }
+  }
+}
